@@ -1,5 +1,6 @@
 # Team_Task_Manager
 A web-based task management system for teams, built with PHP, MySQL, HTML, CSS, and JavaScript.
+
  🚀 Features
 - User authentication (login/logout)
 - View assigned tasks
